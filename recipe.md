@@ -7,12 +7,12 @@
 <<<<<<< HEAD
 - 1 cup chocolate chips
 - 1 tsp vanilla extract
-- ...
+- 1 more cup of chocolate chips
 
 ## Instructions:
 1. Preheat the oven to 350°F (175°C).
 2. In a large bowl, whisk together the flour, sugar, cocoa powder, chocolate chips, and vanilla extract.
-3. ...
+3. add some chocolate chips
 
 ## Additional Directions by Alice:
 4. In a separate bowl, beat the eggs and add them to the mixture. Stir until well combined.
@@ -20,12 +20,12 @@
 6. Pour the batter into a greased and floured 9x13-inch baking pan.
 =======
 - 1/2 tsp ground cinnamon
-- ...
+- chocolate chips
 
 ## Instructions:
 1. Preheat the oven to 375°F (190°C).
 2. In a large bowl, whisk together the flour, sugar, cocoa powder, and ground cinnamon.
-3. ...
+3. add the chocolate chips
 
 ## Additional Directions by Bob:
 4. Add a tablespoon of instant coffee to the dry ingredients for a hint of mocha flavor.
